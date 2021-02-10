@@ -8,7 +8,7 @@
    
 ## 局部的系统树(更新完善中)
 基干部分[LUCA](LUCA.html)   
-   泛植物[Archaeplastida](Archaeplastida.html)    
-      被子植物[Angiosperms](Angiosperms.html)    由于科太多，默认只展开9层
+    泛植物[Archaeplastida](Archaeplastida.html)    
+        被子植物[Angiosperms](Angiosperms.html)    由于科太多，默认只展开9层    
    
 完成于2021年2月10日
