@@ -13,6 +13,6 @@
 * 后鞭毛生物(动物和菌物)[Opisthokonta](Opisthokonta.html)    
    * 节肢动物[Arthropoda](Arthropoda.html)    
    * 脊椎动物[Vertebrata](Vertebrata.html) 默认展开16层    
-   * 合弓纲[Synapsida](Synapsida.html) 默认展开18层    
+      * 合弓纲[Synapsida](Synapsida.html) 默认展开18层    
     
 完成于2021年2月10日
