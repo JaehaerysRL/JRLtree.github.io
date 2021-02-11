@@ -6,7 +6,7 @@
 完整的树过大手机端无法浏览，只能使用下方局部系统树   
 完成于2021年1月30日    
    
-## 局部的系统树(更新完善中)
+## 局部的系统树
 基干部分[LUCA](LUCA.html)   
 * 泛植物[Archaeplastida](Archaeplastida.html)    
    * 被子植物[Angiosperms](Angiosperms.html) 默认展开9层    
