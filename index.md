@@ -17,6 +17,8 @@
          * 真兽下纲[Eutheria](Eutheria.html)    
       * 蜥形纲[Sauropsida](Sauropsida.html)    
          * 主龙类[Archosauria](Archosauria.html)    
-            * 恐龙[Dinosauria](Dinosauria.html)    
+            * 恐龙[Dinosauria](Dinosauria.html) 恐龙总目太大手机端会奔溃故拆分    
+               *蜥臀目[Saurischia](Saurischia.html)    
+               *鸟臀目[Ornithischia](Ornithischia.html)    
     
 完成于2021年2月11日
